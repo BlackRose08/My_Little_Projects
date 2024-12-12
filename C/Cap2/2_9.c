@@ -31,16 +31,4 @@ secondo) sia maggiore
                     printf("Il primo numero inserito ed il secondo sono uguali\n");   
                 }
                 
-                
-        
-      
-
-
-
-
-
-
-
-
-
     }
