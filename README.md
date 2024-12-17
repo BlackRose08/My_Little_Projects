@@ -1,9 +1,16 @@
-Programming Exercises💻✨
+## 💻✨ Esercizi di programmazione 
+Ciao ! 👋 Sono uno studente di informatica e in questo repository pratico alcuni esercizi di programmazione.
 
-HI! 👋 I'm a high school computer science student and in this repository I practice some programming exercises
+💪 Ci sto lavorando per migliorare le mie capacità e imparare a risolvere i problemi in modo efficace e ben organizzato.
 
-💪 I'm working on them to improve my skills and learn to solve problems in an effective and well-organized way. 
+---
 
-📂Content Each folder or file in this repository represents an exercise or series of exercises performed. Some files contain comments to demonstrate the exercise and to explain how the code works. 📝
+## 📂 Contenuti
 
-🎯 Objective My goal is to practice and improve my ability to write clean, well-structured code by applying the basics of programming. 📈
+Ogni cartella o file in questo repository rappresenta un esercizio o una serie di esercizi eseguiti. Alcuni file contengono commenti per dimostrare l'esercizio e spiegare come funziona il codice. 📝
+
+---
+
+## 🎯 Obiettivo
+
+Il mio obiettivo è esercitare e migliorare la mia capacità di scrivere codice pulito e ben strutturato applicando le basi della programmazione. 📈
