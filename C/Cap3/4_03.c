@@ -8,18 +8,20 @@ inseriti.
 #include <stdio.h>
 #include <stdlib.h>
 
-    int main(void){
+int main(void){
 
-        int n, somma = 0, prodotto = 1;     //Dichiarazione numeri da inserire, somma (per interrompere il ciclo), prodotto
+    int n, somma = 0, prodotto = 1;     // Dichiarazione delle variabili: n (numero inserito), somma (per interrompere il ciclo), prodotto (per moltiplicare tutti i numeri inseriti)
 
-                while (somma < 1000)
-                {
-                    printf("Inserisci un numero\n");
-                    scanf("%d", &n);
-                    somma += n;
-                    prodotto *= n;
+    // Ciclo che continua finché la somma non supera 1000
+    while (somma < 1000)
+    {
+        printf("Inserisci un numero\n");  // Chiede all'utente di inserire un numero
+        scanf("%d", &n);  // Legge il numero inserito
 
-                }
-
-                printf("Il prodotto di tutti i numeri inseriti e': %d\n", prodotto);
+        somma += n;  // Aggiunge il numero inserito alla somma totale
+        prodotto *= n;  // Moltiplica il numero inserito al prodotto totale
     }
+
+    // Stampa il prodotto di tutti i numeri inseriti
+    printf("Il prodotto di tutti i numeri inseriti e': %d\n", prodotto);  // Mostra il risultato finale
+}
